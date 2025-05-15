@@ -1,4 +1,4 @@
-# flutter_portfolio
+# travel_app
 
 A new Flutter project.
 

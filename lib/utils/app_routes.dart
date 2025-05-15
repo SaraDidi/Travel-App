@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_portfolio/screens/all_places_screen.dart';
-import 'package:flutter_portfolio/screens/details_screen.dart';
-import 'package:flutter_portfolio/screens/main_screen.dart';
-import 'package:flutter_portfolio/screens/splash_screen.dart';
+import 'package:travel_app/screens/all_places_screen.dart';
+import 'package:travel_app/screens/details_screen.dart';
+import 'package:travel_app/screens/main_screen.dart';
+import 'package:travel_app/screens/splash_screen.dart';
 
 class AppRoutes {
   static const String splash = "/";

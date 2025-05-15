@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_portfolio/utils/config.dart';
-import 'package:flutter_portfolio/screens/favorite_screen.dart';
-import 'package:flutter_portfolio/screens/home_screen.dart';
-import 'package:flutter_portfolio/screens/notification_screen.dart';
-import 'package:flutter_portfolio/screens/profile_screen.dart';
+import 'package:travel_app/utils/config.dart';
+import 'package:travel_app/screens/favorite_screen.dart';
+import 'package:travel_app/screens/home_screen.dart';
+import 'package:travel_app/screens/notification_screen.dart';
+import 'package:travel_app/screens/profile_screen.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
